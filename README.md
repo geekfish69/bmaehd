@@ -1,3 +1,1 @@
-# Readme
-
-Just some basic scripts and files for personal use.
+# Just some basic scripts and files for personal use.
